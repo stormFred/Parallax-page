@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+}
+.one {
+	height: 1200px;
+	background: url(../images/photo2.jpeg);
+	background-repeat: none;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.two {
+	height: 1100px;
+	background: url(../images/photo3.jpeg);
+	background-repeat: none;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.three {
+	height: 1000px;
+	background: url(../images/photo4.jpeg);
+	background-repeat: none;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1 {
+	background: black;
+	color: white;
+	margin-top: 50vh;
+	margin-left: 40%;
+	position: absolute;
+	font-size: 28px;
+	padding: 25px;
+}
+
+body {
+	opacity: 0.65;
+}
+
+.section {
+	position: absolute;
+	margin-top: 210vh;
+	background: grey;
+	font-size: 22px;
+}
+
+.section1 {
+	position: absolute;
+	margin-top: 390vh;
+	background: black;
+	color: white;
+	font-size: 22px;
+}
+h3 {
+	margin-left: 43%;
+}
+
+@media (max-width: 700px) {
+	.txt {
+		margin-right: 250px;
+	}
+}
