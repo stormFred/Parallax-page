@@ -1,9 +1,9 @@
-# Built With
-
 # Links
 
-- GitHub URL: (https://github.com/stormFred/Portfolio)
-- Live Site URL:(https://stormfred-portfolio.netlify.app)
+- GitHub URL: (https://github.com/stormFred/Parallax-page)
+
+
+# Built With
 
 - HTML5
 - CSS3
